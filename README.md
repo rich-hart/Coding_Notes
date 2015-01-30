@@ -6,7 +6,7 @@ Useful coding notes that I come across
 #### PEP8 Git Diff
 
 ```
-git diff storage-exceptions-karen master | pep8 --diff
+git diff [branch_1] [branch_2] | pep8 --diff
 ```
 
 ### Debugging
