@@ -1,6 +1,14 @@
 # Coding_Notes
 Useful coding notes that I come across
 
+### Formatting
+
+#### PEP8 Git Diff
+
+```
+git diff storage-exceptions-karen master | pep8 --diff
+```
+
 ### Debugging
 
 #### Stack Trace
