@@ -32,3 +32,7 @@ if __name__ == '__main__':
         traceback.print_exc()
         pdb.post_mortem(tb)
 ```
+<!---
+run as root -s
+exit root run 'exit'
+-->
