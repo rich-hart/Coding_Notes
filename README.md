@@ -35,4 +35,5 @@ if __name__ == '__main__':
 <!---
 run as root -s
 exit root run 'exit'
+import timeit #time functions
 -->
