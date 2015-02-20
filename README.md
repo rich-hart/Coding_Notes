@@ -38,6 +38,11 @@ Single line list of keys from dictionary
 ```python
 [key for key, value in dictionary.iteritems()]
 ```
+#### List all functions in a class
+```python
+import inspect
+inspect.getmembers([class], predicate=inspect.ismethod)
+```
 <!---
 run as root -s
 exit root run 'exit'
