@@ -32,6 +32,12 @@ if __name__ == '__main__':
         traceback.print_exc()
         pdb.post_mortem(tb)
 ```
+
+#### List functions
+Single line list of keys from dictionary
+```python
+[key for key, value in dictionary.iteritems()]
+```
 <!---
 run as root -s
 exit root run 'exit'
