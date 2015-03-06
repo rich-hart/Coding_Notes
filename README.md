@@ -47,4 +47,5 @@ inspect.getmembers([class], predicate=inspect.ismethod)
 run as root -s
 exit root run 'exit'
 import timeit #time functions
+http://beyondgrep.com/ for grep text search tool
 -->
