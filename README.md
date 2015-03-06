@@ -43,6 +43,11 @@ Single line list of keys from dictionary
 import inspect
 inspect.getmembers([class], predicate=inspect.ismethod)
 ```
+
+#### Command Line Searching with git grep
+
+git grep [options] [-e] <pattern> [<rev>...] [[--] <path>...]
+
 <!---
 run as root -s
 exit root run 'exit'
