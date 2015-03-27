@@ -9,6 +9,10 @@ Useful coding notes that I come across
 git diff [branch_1] [branch_2] | pep8 --diff
 ```
 
+#### SQL Formatter
+
+https://github.com/darold/pgFormatter
+
 ### Debugging
 
 #### Stack Trace
