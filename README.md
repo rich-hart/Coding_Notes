@@ -12,7 +12,7 @@ git diff [branch_1] [branch_2] | pep8 --diff
 #### SQL Formatter
 
 https://github.com/darold/pgFormatter
-
+http://people.planetpostgresql.org/dfetter/index.php?/archives/78-Formatting!.html
 ### Debugging
 
 #### Stack Trace
