@@ -62,6 +62,16 @@ http://beyondgrep.com/ for grep text search tool
 https://pypi.python.org/pypi/pep8radius
 #### Vim notes
 
+on Mac
+
+copy selected part: visually select text(type v or V in normal mode) and type ```:w !pbcopy```
+
+copy the whole file ```:%w !pbcopy```
+
+past from the clipboard ```:r !pbpaste```
+
+
+
 ##### Python template
 
 https://wiki.python.org/moin/Vim
