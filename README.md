@@ -36,6 +36,16 @@ if __name__ == '__main__':
         traceback.print_exc()
         pdb.post_mortem(tb)
 ```
+#### Stack Trace Code
+
+You could do this while in pdb to launch a temporary interactive Python session with all the local variables available:
+
+(pdb) !import code; code.interact(local=vars())
+Python 2.6.5 (r265:79063, Apr 16 2010, 13:57:41) 
+[GCC 4.4.3] on linux2
+Type "help", "copyright", "credits" or "license" for more information.
+(InteractiveConsole)
+>>> 
 
 #### List functions
 Single line list of keys from dictionary
