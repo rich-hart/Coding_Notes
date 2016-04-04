@@ -96,3 +96,7 @@ Python source code - replace this with a description of the code and write the c
 
 # vim: tabstop=8 expandtab shiftwidth=4 softtabstop=4
 ```
+
+##### Django 
+
+https://realpython.com/blog/python/asynchronous-tasks-with-django-and-celery/
