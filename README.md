@@ -100,3 +100,6 @@ Python source code - replace this with a description of the code and write the c
 ##### Django 
 
 https://realpython.com/blog/python/asynchronous-tasks-with-django-and-celery/
+
+##### Testing
+https://hg.python.org/cpython/file/3dc602b1f4a2/Lib/test/test_threading.py
