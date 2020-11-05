@@ -105,7 +105,7 @@ https://realpython.com/blog/python/asynchronous-tasks-with-django-and-celery/
 https://hg.python.org/cpython/file/3dc602b1f4a2/Lib/test/test_threading.py
 
 ##### Vim
-vimrc
+.vimrc
 ```
 ":set mouse=a"
 "set mouse=nicr" 
