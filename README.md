@@ -149,3 +149,8 @@ if exists("+showtabline")
      set tabline=%!MyTabLine()
 endif
 ```
+    
+##### Kubernetes
+```
+kubectl -n kube-system describe secret default
+```
