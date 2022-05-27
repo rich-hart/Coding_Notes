@@ -154,3 +154,11 @@ endif
 ```
 kubectl -n kube-system describe secret default
 ```
+
+##### Bash
+Export environment variables from file
+```
+set -o allexport
+source conf-file
+set +o allexport
+```
